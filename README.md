@@ -1,5 +1,5 @@
 # Neural_Machine_translation
-using sequence2sequence models to convert sequence of characters of text from English to Hindi.
+using sequence2sequence models to convert sequence of characters of text from English to Hindi and Foreign language(french) to english.
 
 Requirements:
  pytorch
